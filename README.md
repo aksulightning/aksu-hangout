@@ -1,2 +1,2 @@
 # aksu-hangout
-The place on VRChat metaverse.
+The place in the VRChat metaverse.
